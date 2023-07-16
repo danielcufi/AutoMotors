@@ -11,6 +11,8 @@
         public double KapacitetiTotal;
         public double Harxhimi;
 
+        //ky eshte nje koment tjeter
+
         public Makina(string marka, string modeli, int viti, string konsumi, double motorri, double kapaciteti, double kapacitetiTotal, double harxhimi)
         {
             Marka = marka;
@@ -22,6 +24,7 @@
             KapacitetiTotal = kapacitetiTotal;
             Harxhimi = harxhimi;
         }
+
 
         public void ShfaqOpsionet()
         {
